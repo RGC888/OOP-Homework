@@ -1,1 +1,1 @@
-Repository for Projects and Homeworks
+Repository for Homeworks
