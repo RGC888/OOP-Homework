@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1709140160 source:d:\codeblocks_projects\oop_lab\oop_lab_1\problema2\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<cstring>
+
