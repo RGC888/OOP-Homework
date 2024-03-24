@@ -1,0 +1,6 @@
+﻿  Math.cpp
+C:\Users\George\source\repos\Math_Project\Math_Project\Math_Project\Math.cpp(20,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\George\source\repos\Math_Project\Math_Project\Math_Project\Math.cpp(25,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\George\source\repos\Math_Project\Math_Project\Math_Project\Math.cpp(40,11): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\George\source\repos\Math_Project\Math_Project\Math_Project\Math.cpp(45,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+  Math_Project.vcxproj -> C:\Users\George\source\repos\Math_Project\Math_Project\x64\Debug\Math_Project.exe
